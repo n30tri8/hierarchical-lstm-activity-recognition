@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9840eb6-5bf8-4b64-b842-cbc9eb37407e" name="Changes" comment="" />
+    <list default="true" id="e9840eb6-5bf8-4b64-b842-cbc9eb37407e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hierarchical-lstm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hierarchical-lstm/training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SIV-hierarchical LSTM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SIV-hierarchical LSTM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/preprocess_and_xception.png" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/preprocess_and_xception.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/test lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,24 +33,31 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bp0EZOJ5vDZffti8rFABdk4XGn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/repos/SIV-hierarchical LSTM/requirements.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SIV-hierarchical LSTM" type="PythonConfigurationType" factoryName="Python">
       <module name="SIV-hierarchical LSTM" />
@@ -94,8 +121,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706896603066</updated>
-      <workItem from="1706896607792" duration="25000" />
+      <workItem from="1706896607792" duration="2242000" />
+      <workItem from="1706898884887" duration="67830000" />
+      <workItem from="1707091617417" duration="17622000" />
+      <workItem from="1707165710805" duration="2252000" />
+      <workItem from="1707169369930" duration="25949000" />
+      <workItem from="1707224419811" duration="6460000" />
+      <workItem from="1707232014804" duration="8551000" />
+      <workItem from="1707249710129" duration="529000" />
+      <workItem from="1707250255783" duration="7360000" />
+      <workItem from="1707258465961" duration="2942000" />
+      <workItem from="1707261539277" duration="1494000" />
+      <workItem from="1707306843170" duration="7773000" />
+      <workItem from="1707314789628" duration="246000" />
+      <workItem from="1707315059325" duration="242000" />
+      <workItem from="1707315625038" duration="1888000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

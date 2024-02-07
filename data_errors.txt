@@ -1,0 +1,7 @@
+video_idx/annotations.txt:line_number:(incorrect annotation) -> action
+
+14/annotations.txt:38:(1229 392 52 147 standing) -> to (1229 392 50 147 standing)
+10/annotations.txt:35:(1253 321 28 145 standing) -> to (1253 321 26 145 standing)
+10/annotations.txt:79:(1238 356 60 121 standing) -> to (1238 356 41 121 standing)
+23/annotations.txt:1:(1243 300 39 92 standing) -> to (1243 300 36 92 standing)
+7/annotations.txt:75:(1252 401 34 133 standing) -> to (1250 401 29 133 standing)
