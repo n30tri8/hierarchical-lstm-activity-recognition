@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9840eb6-5bf8-4b64-b842-cbc9eb37407e" name="Changes" comment="Remove redundant files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e9840eb6-5bf8-4b64-b842-cbc9eb37407e" name="Changes" comment="Remove redundant files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +138,7 @@
       <workItem from="1707391333172" duration="759000" />
       <workItem from="1707394997183" duration="1597000" />
       <workItem from="1707399171753" duration="5473000" />
-      <workItem from="1711746634484" duration="2059000" />
+      <workItem from="1711746634484" duration="2544000" />
     </task>
     <task id="LOCAL-00001" summary="Debug for presentation">
       <option name="closed" value="true" />
