@@ -4,20 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9840eb6-5bf8-4b64-b842-cbc9eb37407e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hierarchical-lstm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hierarchical-lstm/training.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SIV-hierarchical LSTM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SIV-hierarchical LSTM.iml" afterDir="false" />
+    <list default="true" id="e9840eb6-5bf8-4b64-b842-cbc9eb37407e" name="Changes" comment="Debug for presentation">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/preprocess_and_xception.png" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/preprocess_and_xception.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/test lstm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/main-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/preprocess_and_xception.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,7 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/repos/SIV-hierarchical LSTM/requirements.txt&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pooya/Desktop&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -135,11 +136,31 @@
       <workItem from="1707306843170" duration="7773000" />
       <workItem from="1707314789628" duration="246000" />
       <workItem from="1707315059325" duration="242000" />
-      <workItem from="1707315625038" duration="1888000" />
+      <workItem from="1707315625038" duration="2820000" />
+      <workItem from="1707346681788" duration="6968000" />
+      <workItem from="1707353855165" duration="176000" />
+      <workItem from="1707354140439" duration="3250000" />
+      <workItem from="1707391333172" duration="759000" />
+      <workItem from="1707394997183" duration="1597000" />
+      <workItem from="1707399171753" duration="5473000" />
+      <workItem from="1711746634484" duration="632000" />
     </task>
+    <task id="LOCAL-00001" summary="Debug for presentation">
+      <option name="closed" value="true" />
+      <created>1711746903673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711746903673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Debug for presentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debug for presentation" />
   </component>
 </project>
