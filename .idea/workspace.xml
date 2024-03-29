@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9840eb6-5bf8-4b64-b842-cbc9eb37407e" name="Changes" comment="Debug for presentation">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e9840eb6-5bf8-4b64-b842-cbc9eb37407e" name="Changes" comment="Remove redundant files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/main-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/preprocess_and_xception.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +141,7 @@
       <workItem from="1707391333172" duration="759000" />
       <workItem from="1707394997183" duration="1597000" />
       <workItem from="1707399171753" duration="5473000" />
-      <workItem from="1711746634484" duration="632000" />
+      <workItem from="1711746634484" duration="2059000" />
     </task>
     <task id="LOCAL-00001" summary="Debug for presentation">
       <option name="closed" value="true" />
@@ -153,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711746903673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remove redundant files">
+      <option name="closed" value="true" />
+      <created>1711747290401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711747290401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Debug for presentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debug for presentation" />
+    <MESSAGE value="Remove redundant files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove redundant files" />
   </component>
 </project>
