@@ -14,5 +14,5 @@ https://github.com/mostafa-saad/deep-activity-rec
 [Google slides presentation](https://docs.google.com/presentation/d/e/2PACX-1vTDV0O45cAwInrPV0fZg6x_jfNVDcJFPLvjteJpqso2duBRKlBNOu93wRHCGpMRTIS9jZ-2qq5kjo7e/pub?start=false&loop=false&delayms=30000)
 
 ### Description of two files:
-- `main.ipynb`: The main code in notebook format.
+- `notebooks/main.ipynb`: The main code in notebook format.
 - `hierarchical-lstm/training.py`: For training the code without notebook text cells, intended as a clone of `main.ipynb`. This file is incomplete and was not presented.
